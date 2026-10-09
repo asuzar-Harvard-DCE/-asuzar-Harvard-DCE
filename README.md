@@ -28,7 +28,7 @@ Core Values
 
 Transparency & Integrity
 
-I maintain an Mission Integrity Charter that governs all external engagements and ensures academic primacy during the current phase of graduate study.
+I maintain a Mission Integrity Charter that governs all external engagements and ensures academic primacy during the current phase of graduate study.
 
 ---
 
