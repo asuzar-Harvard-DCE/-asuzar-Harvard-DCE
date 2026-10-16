@@ -6,7 +6,7 @@ Status: Academic Graduate studies
 
 Overview
 
-I established Ingenuity Laboratory, a Delaware Limited Liability Company (LLC), to facilitate research, development, testing, validation, and experimentation underpinned by rigorous focus on ethics, integrity, and effectiveness derived from academic studies as a graduate student at Harvard DCE.
+I established Ingenuity Laboratory to facilitate research, development, testing, validation, and experimentation underpinned by rigorous focus on ethics, integrity, and effectiveness derived from academic studies as a graduate student at Harvard DCE.
 
 ---
 
