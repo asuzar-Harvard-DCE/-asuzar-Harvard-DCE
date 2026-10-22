@@ -36,6 +36,7 @@ Contact
 
 - Website: https://ingenuitylaboratory.com
 - Email: aaron@ingenuitylaboratory.com
+- LinkedIn: https://www.linkedin.com/in/aaron-suzar-b55b94437/
 - Location: Bay Area, CA (Mountain View)
 
 ---
