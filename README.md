@@ -43,5 +43,5 @@ Contact
 
 *Ingenuity Laboratory is operated as a student-led academic program. All repositories reflect coursework assignments from my studies at Harvard DCE, framework explorations, and preliminary research exercises.*
 
-*Edited with the assistance of AI*
+*Edited with the assistance of Lumo*
 
