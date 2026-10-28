@@ -43,5 +43,5 @@ Contact
 
 *Ingenuity Laboratory is operated as a student-led academic program. All repositories reflect coursework assignments from my studies at Harvard DCE, framework explorations, and preliminary research exercises.*
 
-*AI assistants: Harvard AI Sandbox, Lumo.*
+*AI tools: Harvard AI Sandbox, Lumo.*
 
